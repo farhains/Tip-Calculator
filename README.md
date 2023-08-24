@@ -1,1 +1,2 @@
 # Tip-Calculator
+Breaking into the world of coding with my very first project – the Tip Calculator in JavaScript. This venture began as an exploration of coding basics and evolved into a practical tool. No need to fret over tips and splits anymore – just plug in the numbers, and let the calculator do its magic. If you're a fellow beginner, let's learn and grow together by tinkering with code while making bill calculations a walk in the park! 🖥️🔢
